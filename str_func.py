@@ -9,3 +9,8 @@ def summ_all(num_1, num_2):
     summ = num_1 + num_2
     return summ
 
+def summ_all(num_1, num_2):
+    """Сумма двух чисел. На вход подаются числа.""
+    summ = num_1 + num_2
+    return summ
+
